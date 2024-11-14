@@ -8,7 +8,7 @@ export const User = ({data}) => {
       alert(data.id);
     }}>
       <View style= {{
-      width: '90%' ,
+      width: '100%' ,
       height: 70,
       padding: 5 ,
       margin: 3 ,

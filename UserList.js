@@ -17,7 +17,7 @@ export const UserList = () => {
 
     return(
         
-        <View style={{width:"90%", height:"80%"}}>
+        <View style={{width:"90%", height:"100%"}}>
           { loading ? (
     <ActivityIndicator size={"large"} color={"#0D66FF"}/>
     ) : (
